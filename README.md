@@ -116,7 +116,7 @@ Through this project, I improved my skills in:
 ---
 
 # Screenshot / Demo
-Show what the dashboard looks like. - 
+Show what the dashboard looks like. - ![Dashboard Preview](https://github.com/Irshadali07/Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
 
 # 👨‍💻 Author
 
