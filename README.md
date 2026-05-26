@@ -84,7 +84,7 @@ This dashboard helps in generating the following insights:
 
 # 📂 Project Structure
 
-Mobile-Sales-Dashboard/
+Sales-Dashboard/
 │
 ├── Sales Dashboard.pbix
 ├── Mobile Sales Dashboard.png
